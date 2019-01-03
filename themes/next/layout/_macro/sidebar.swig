@@ -43,10 +43,7 @@
             #}{% endif %}{#
             #}</p>
           </div>
-
-          <nav class="site-state motion-element">
-
-            {% if config.archive_dir != '/' and site.posts.length > 0 %}
+            <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28828120&auto=1&height=66"></iframe>            {% if config.archive_dir != '/' and site.posts.length > 0 %}
               <div class="site-state-item site-state-posts">
               {% if theme.menu.archives %}
                 <a href="{{ url_for(theme.menu.archives).split('||')[0] | trim }}">
