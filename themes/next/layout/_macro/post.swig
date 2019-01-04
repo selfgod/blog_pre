@@ -230,7 +230,7 @@
                   <i class="fa fa-file-word-o"></i>
                 </span>
                 {% if theme.post_wordcount.item_text %}
-                  <span class="post-meta-item-text">{{ __('post.wordcount') }}&#58;</span>
+                  <span class="post-meta-item-text">{{ __('post.wordcount') }}&#58;</span>``
                 {% endif %}
                 <span title="{{ __('post.wordcount') }}">
                   {{ wordcount(post.content) }}
