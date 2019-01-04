@@ -98,3 +98,8 @@ live2d:
     height: 300
   mobile:
     show: true
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
