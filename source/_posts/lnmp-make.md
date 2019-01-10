@@ -9,7 +9,11 @@ top: 3
 ``` bash
 	brew search php7.3
 ```
-查看是否有7.3版本的php，正常是存在的，然后执行安装
+查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，
+``` bash
+	brew update
+```
+,然后执行安装
 ``` bash
 	brew install php@7.3
 ```
@@ -37,3 +41,27 @@ cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，发�
 
 
 ### 二、安装nginx
+
+
+
+### 三、安装mysql
+
+
+### 四、安装php扩展swoole，xdebug，igbinary，redis
+1、swoole安装
+cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，执行
+``` bash
+sudo ./pecl install swoole
+``` 
+注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。3、如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。
+然后一路回车即可。可以参考知乎文章
+https://zhuanlan.zhihu.com/p/35974610
+
+2、xdebug安装
+
+3、igbinary安装
+
+4、redis安装
+
+
+### 五、配置并联合启动
