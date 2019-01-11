@@ -4,7 +4,7 @@ date: 2019-01-10 16:42:14
 tags:
 top: 3
 ---
-### 一、安装php7.3
+### 一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）
 1、运行命令
 ``` bash
 	brew search php7.3
@@ -41,6 +41,17 @@ cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，发�
 
 
 ### 二、安装nginx
+1、安装
+``` bash
+	brew install nginx
+```
+查看版本信息，cd到执行目录下，这里我的是![](./lnmp-make/1547188800487.jpg)执行
+``` bash
+	./nginx -v
+```
+
+2、然后进行配置
+首先为nginx配置到启动端口，因为默认端口是8080，这里我们可以找到未使用的端口，姑且使用8017
 
 
 
@@ -48,20 +59,32 @@ cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，发�
 
 
 ### 四、安装php扩展swoole，xdebug，igbinary，redis
+cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，
+注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。
 1、swoole安装
-cd 到该版本php的执行目录下，![](./lnmp-make/1547100608023.jpg)，执行
+执行
 ``` bash
 sudo ./pecl install swoole
 ``` 
-注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。3、如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。
+如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。
 然后一路回车即可。可以参考知乎文章
 https://zhuanlan.zhihu.com/p/35974610
 
 2、xdebug安装
-
+执行
+``` bash
+sudo ./pecl install swoole
+``` 
 3、igbinary安装
-
+执行
+``` bash
+sudo ./pecl install igbinary
+``` 
 4、redis安装
-
-
+执行
+``` bash
+sudo ./pecl install redis
+``` 
+安装扩展后会自动写入配置，无需再修改配置文件
 ### 五、配置并联合启动
+
