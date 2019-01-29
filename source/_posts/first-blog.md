@@ -2,6 +2,8 @@
 title: 我的第一篇博客
 layout: _posts
 date: 2019-01-08 00:45:46
+categories:  #分类
+    - 首页
 tags:
 top: 2
 ---
@@ -14,7 +16,7 @@ top: 2
 ```
 - 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。
 
--大神的博客常去溜达学习 
+- 大神的博客常去溜达学习 
 [阮一峰](http://www.ruanyifeng.com/blog/developer/)
 [韩天峰](http://rango.swoole.com/)
 [廖雪峰](https://www.liaoxuefeng.com/)
