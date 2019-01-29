@@ -61,7 +61,8 @@ index2_generator:
   per_page: 3
   order_by: -date
   include:
-    - category 首页 # 只包含Web分类下的文章
+   # - category 首页 # 只包含Web分类下的文章
+    - tag 首页
   #exclude:
   #  - tag Hexo # 不包含标签为Hexo的文章
   
