@@ -13,3 +13,10 @@ top: 2
 	<?php echo 'HELLO WORLD';  ?>
 ```
 - 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。
+
+-大神的博客常去溜达学习 
+[阮一峰](http://www.ruanyifeng.com/blog/developer/)
+[韩天峰](http://rango.swoole.com/)
+[廖雪峰](https://www.liaoxuefeng.com/)
+[php大神博客汇总，汇总下知乎和其他来源](http://demo.yiiphp.net/news/61.html)
+

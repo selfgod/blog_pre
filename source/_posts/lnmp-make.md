@@ -3,10 +3,11 @@ title: Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)
 date: 2019-01-10 16:42:14
 top: 3
 categories:  #分类
-    - 云服务器
+    - 服务器及环境搭建
 tags:   #标签
-    - centOS
-    - tomcat
+    - php
+    - nginx
+    - php扩展
 ---
 ### 一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）
 1、运行命令
