@@ -2,10 +2,9 @@
 title: Linux
 date: 2019-01-30 22:05:44
 categories:  #分类
-    - redis
+    - linux
 tags:   #标签
-    - php
-    - redis
+    - linux
 ---
 
 ### Linux中操作
