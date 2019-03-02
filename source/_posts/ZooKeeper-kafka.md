@@ -7,3 +7,7 @@ tags:   #标签
     - php
     - ZooKeeper-kafka
 ---
+
+#搭建zookeeper+kafka集群
+1、[linux下搭建zookeeper+kafka集群](hhttps://www.cnblogs.com/panwenbin-logs/p/10369402.html)
+
