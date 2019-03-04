@@ -10,3 +10,6 @@ tags:   #标签
 ### Linux中操作
 1、[Linux vi中查找字符内容的方法](https://www.cnblogs.com/azhqiang/p/5872046.html)
 2、php快速查看扩展的版本信息   php --ri 扩展名
+
+### Linux下配置
+1、[环境变量有关](https://www.jb51.net/article/79143.htm)

@@ -149,7 +149,7 @@ https://zhuanlan.zhihu.com/p/35974610
 2、xdebug安装
 执行
 ``` bash
-sudo ./pecl install swoole
+sudo ./pecl install xdebug
 ``` 
 3、igbinary安装
 执行

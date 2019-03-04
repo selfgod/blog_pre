@@ -9,3 +9,4 @@ tags:   #标签
 
 ### php面试相关
 1、[php面试题整理](https://www.cnblogs.com/-shu/category/704340.html)
+2、[高并发与大数据](https://segmentfault.com/a/1190000011532769)
