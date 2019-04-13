@@ -16,3 +16,4 @@ tags:   #标签
 5、[vue-cli 3.0脚手架cli-service配置 (二)](https://www.jianshu.com/p/d50e543223b8)
 6、[vue-cli 3.0 vue.config.js配置 (三)](https://www.jianshu.com/p/6b9f56145df2)
 7、[vue-cli 3.0 多页面打包 (四)](https://www.jianshu.com/p/2db75dbeb0d9)
+8、[比官方文档更易懂的Vue.js教程！包你学会！](http://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html)
