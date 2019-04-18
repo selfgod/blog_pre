@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5bc40ac-4513-4286-86d3-5d9da2029f64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/js-learn.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/Vue.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Vue.md" afterDir="false" />
     </list>
@@ -40,7 +41,7 @@
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="4" />
           <entry key="json" value="5" />
-          <entry key="md" value="37" />
+          <entry key="md" value="38" />
           <entry key="png" value="3" />
           <entry key="styl" value="1" />
           <entry key="svg" value="1" />
@@ -54,7 +55,7 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="9" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="37" />
+          <entry key="Markdown" value="38" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="3" />
@@ -63,17 +64,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1429" />
+          <entry key="md" value="1456" />
           <entry key="styl" value="5" />
           <entry key="swig" value="73" />
-          <entry key="txt" value="135" />
+          <entry key="txt" value="141" />
           <entry key="yml" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1429" />
-          <entry key="PLAIN_TEXT" value="213" />
+          <entry key="Markdown" value="1456" />
+          <entry key="PLAIN_TEXT" value="219" />
           <entry key="YAML" value="118" />
         </counts>
       </usages-collector>
@@ -105,12 +106,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Vue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="441">
-                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,7 +135,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="189">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -218,6 +231,7 @@
         <option value="$PROJECT_DIR$/source/_posts/FAQ.md" />
         <option value="$PROJECT_DIR$/source/_posts/toLearn.md" />
         <option value="$PROJECT_DIR$/source/_posts/ZooKeeper-kafka.md" />
+        <option value="$PROJECT_DIR$/source/_posts/js-learn.md" />
         <option value="$PROJECT_DIR$/source/_posts/Vue.md" />
       </list>
     </option>
@@ -243,8 +257,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="240" />
-    <option name="y" value="66" />
+    <option name="x" value="399" />
+    <option name="y" value="109" />
     <option name="width" value="1338" />
     <option name="height" value="825" />
   </component>
@@ -388,7 +402,7 @@
       <workItem from="1554079344952" duration="573000" />
       <workItem from="1555046371679" duration="961000" />
       <workItem from="1555375362459" duration="1399000" />
-      <workItem from="1555563526328" duration="565000" />
+      <workItem from="1555563526328" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="完整配置">
       <created>1546485226058</created>
@@ -488,17 +502,33 @@
       <option name="project" value="LOCAL" />
       <updated>1553068948051</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="19-04-18 添加博客Vue">
+      <created>1555564370335</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555564370335</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107861000" />
+    <option name="totallyTimeSpent" value="109418000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="66" width="1338" height="825" extended-state="0" />
+    <frame x="399" y="109" width="1338" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29937792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29937792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -507,11 +537,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.328125" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31650245" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31512606" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -539,16 +569,10 @@
     <MESSAGE value="19-03-04 添加博客" />
     <MESSAGE value="19-03-04 添加博客FAQ" />
     <MESSAGE value="19-03-20 添加博客学习计划" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-03-20 添加博客学习计划" />
+    <MESSAGE value="19-04-18 添加博客Vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-04-18 添加博客Vue" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/next/source/css/_custom/custom.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/source/css/_common/components/post/post.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1323">
@@ -873,7 +897,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -882,8 +906,18 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Vue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="441">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>

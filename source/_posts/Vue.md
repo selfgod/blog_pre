@@ -2,7 +2,7 @@
 title: Vue
 date: 2019-04-12 13:22:47
 categories:  #分类
-    - php
+    - js
 tags:   #标签
     - Vue
     - 前端
