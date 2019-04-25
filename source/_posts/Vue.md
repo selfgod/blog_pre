@@ -19,3 +19,4 @@ tags:   #标签
 8、[比官方文档更易懂的Vue.js教程！包你学会！](http://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html)
 9、[详解 ESLint 规则，规范你的代码](https://www.cnblogs.com/-walker/p/8143715.html)
 10、[vue2.0+node.js项目实战--个人笔记+视频+源码](https://blog.csdn.net/wangking407/article/details/83928364)
+11、[Vue中的computed属性](https://www.cnblogs.com/gunelark/p/8492468.html)
