@@ -6,6 +6,7 @@ categories:  #分类
 tags:   #标签
     - php
     - redis
+    - nosql
     - 缓存技术
 ---
 
