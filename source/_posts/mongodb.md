@@ -2,7 +2,7 @@
 title: memcache
 date: 2019-02-26 23:23:23
 categories:  #分类
-    - memcache
+    - mongodb
 tags:   #标签
     - php
     - mongodb
