@@ -18,3 +18,4 @@ tags:   #标签
 3、[PHP mysql 优化](https://blog.csdn.net/lx19971212/article/details/77940763)
 4、[PHP经典面试题——数据库优化](https://blog.csdn.net/sky78187/article/details/79397422)
 5、[避免在循环中访问数据库,一次对于PHP代码的优化经历](https://blog.csdn.net/u011822516/article/details/81276640)
+6、[关于sql和MySQL的语句执行顺序(必看！！！)](https://www.cnblogs.com/yyjie/p/7788428.html)
