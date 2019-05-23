@@ -14,6 +14,7 @@ tags:   #标签
 1、[mac 下用 brew 安装mongodb](https://www.cnblogs.com/oceanden/p/5188119.html)
 2、[MongoDB基本命令操作](https://www.cnblogs.com/JeremyWYL/p/7809318.html)
 3、[PHP操作MongoDB（增删改查）](https://www.cnblogs.com/wujuntian/p/8352586.html)
+4、[MongoDB查询系统](https://www.cnblogs.com/czx1/p/6950764.html)
 
 
 
