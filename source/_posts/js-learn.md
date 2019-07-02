@@ -11,5 +11,6 @@ tags:   #标签
 ### js知识
 1、[ES6 基础](https://www.cnblogs.com/libin-1/p/6716470.html)
 2、[汇总前端最最常用的JS代码片段-你值得收藏](https://www.jianshu.com/p/1e0c4e8be239)
+3、[JS - Promise使用详解1（基本概念、使用优点）](https://www.cnblogs.com/sweeeper/p/8442613.html)
 
 
