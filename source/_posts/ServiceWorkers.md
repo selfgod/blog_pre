@@ -12,5 +12,4 @@ tags:   #标签
 ### ServiceWorker
 1、[Service Worker API](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API)
 2、[Web离线应用解决方案——ServiceWorker](https://www.cnblogs.com/dojo-lzz/p/8047336.html)
-3、[Service Worker](https://www.jianshu.com/p/62338c038c42)
-
+3、[service worker](http://kailian.github.io/2017/03/01/service-worker#%F0%9F%90%89)

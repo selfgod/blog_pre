@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5bc40ac-4513-4286-86d3-5d9da2029f64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,17 +63,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1697" />
+          <entry key="md" value="1713" />
           <entry key="styl" value="5" />
           <entry key="swig" value="73" />
-          <entry key="txt" value="234" />
+          <entry key="txt" value="267" />
           <entry key="yml" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1697" />
-          <entry key="PLAIN_TEXT" value="312" />
+          <entry key="Markdown" value="1713" />
+          <entry key="PLAIN_TEXT" value="345" />
           <entry key="YAML" value="118" />
         </counts>
       </usages-collector>
@@ -116,24 +117,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="315">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/wx-app.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -224,8 +225,8 @@
         <option value="$PROJECT_DIR$/source/_posts/mysql.md" />
         <option value="$PROJECT_DIR$/source/_posts/mongodb.md" />
         <option value="$PROJECT_DIR$/source/_posts/swagger.md" />
-        <option value="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" />
         <option value="$PROJECT_DIR$/source/_posts/wx-app.md" />
+        <option value="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" />
       </list>
     </option>
   </component>
@@ -397,7 +398,7 @@
       <workItem from="1557922951887" duration="164000" />
       <workItem from="1558578800988" duration="244000" />
       <workItem from="1559656083384" duration="437000" />
-      <workItem from="1562029888440" duration="462000" />
+      <workItem from="1562029888440" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="完整配置">
       <created>1546485226058</created>
@@ -574,11 +575,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562030140306</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="19-07-02 添加博客wx-app开发">
+      <created>1562030449791</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562030449791</updated>
+    </task>
+    <task id="LOCAL-00027" summary="19-07-02 添加博客ServiceWorkers">
+      <created>1562030994321</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1562030994321</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122018000" />
+    <option name="totallyTimeSpent" value="122762000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,7 +608,7 @@
     <frame x="265" y="122" width="1519" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25562373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25562373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -606,7 +621,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.328125" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.281602" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3667084" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Mongo Explorer" />
@@ -642,6 +657,7 @@
     <MESSAGE value="19-04-18 添加博客mysql执行顺序" />
     <MESSAGE value="19-04-18 添加博客mongodb查询" />
     <MESSAGE value="19-04-18 添加博客api代码接口文档swagger" />
+    <MESSAGE value="19-07-02 添加博客wx-app开发" />
     <MESSAGE value="19-07-02 添加博客ServiceWorkers" />
     <option name="LAST_COMMIT_MESSAGE" value="19-07-02 添加博客ServiceWorkers" />
   </component>
@@ -998,17 +1014,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/wx-app.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <first_editor relative-caret-position="210">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/wx-app.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
