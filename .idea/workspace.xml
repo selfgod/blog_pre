@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5bc40ac-4513-4286-86d3-5d9da2029f64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/mysql.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,9 @@
     <session id="-120884887">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="50" />
+          <entry key="project.closed" value="51" />
           <entry key="project.open.time.0" value="9" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
@@ -30,7 +30,7 @@
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,7 +40,7 @@
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="4" />
           <entry key="json" value="5" />
-          <entry key="md" value="47" />
+          <entry key="md" value="48" />
           <entry key="png" value="3" />
           <entry key="styl" value="1" />
           <entry key="svg" value="1" />
@@ -54,7 +54,7 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="9" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="47" />
+          <entry key="Markdown" value="48" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="3" />
@@ -63,17 +63,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1713" />
+          <entry key="md" value="1723" />
           <entry key="styl" value="5" />
           <entry key="swig" value="73" />
-          <entry key="txt" value="267" />
+          <entry key="txt" value="282" />
           <entry key="yml" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1713" />
-          <entry key="PLAIN_TEXT" value="345" />
+          <entry key="Markdown" value="1723" />
+          <entry key="PLAIN_TEXT" value="360" />
           <entry key="YAML" value="118" />
         </counts>
       </usages-collector>
@@ -93,12 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/mysql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="272">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -117,12 +117,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -217,16 +229,16 @@
         <option value="$PROJECT_DIR$/source/_posts/FAQ.md" />
         <option value="$PROJECT_DIR$/source/_posts/toLearn.md" />
         <option value="$PROJECT_DIR$/source/_posts/ZooKeeper-kafka.md" />
-        <option value="$PROJECT_DIR$/source/_posts/js-learn.md" />
         <option value="$PROJECT_DIR$/source/_posts/Vue.md" />
         <option value="$PROJECT_DIR$/source/_posts/tools.md" />
         <option value="$PROJECT_DIR$/source/_posts/redis.md" />
         <option value="$PROJECT_DIR$/source/_posts/memcache.md" />
-        <option value="$PROJECT_DIR$/source/_posts/mysql.md" />
         <option value="$PROJECT_DIR$/source/_posts/mongodb.md" />
         <option value="$PROJECT_DIR$/source/_posts/swagger.md" />
         <option value="$PROJECT_DIR$/source/_posts/wx-app.md" />
         <option value="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" />
+        <option value="$PROJECT_DIR$/source/_posts/js-learn.md" />
+        <option value="$PROJECT_DIR$/source/_posts/mysql.md" />
       </list>
     </option>
   </component>
@@ -251,10 +263,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
-    <option name="y" value="122" />
-    <option name="width" value="1519" />
-    <option name="height" value="910" />
+    <option name="x" value="291" />
+    <option name="y" value="71" />
+    <option name="width" value="1435" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -398,7 +410,8 @@
       <workItem from="1557922951887" duration="164000" />
       <workItem from="1558578800988" duration="244000" />
       <workItem from="1559656083384" duration="437000" />
-      <workItem from="1562029888440" duration="1206000" />
+      <workItem from="1562029888440" duration="5604000" />
+      <workItem from="1564036257100" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="完整配置">
       <created>1546485226058</created>
@@ -589,11 +602,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562030994321</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="19-07-02 添加博客ServiceWorkers">
+      <created>1562031168133</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562031168133</updated>
+    </task>
+    <task id="LOCAL-00029" summary="19-07-02 添加博客js中的promise">
+      <created>1562034153082</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1562034153082</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122762000" />
+    <option name="totallyTimeSpent" value="127208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -605,10 +632,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="122" width="1519" height="910" extended-state="0" />
+    <frame x="291" y="71" width="1435" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25562373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -621,14 +648,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.328125" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3667084" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36629528" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +686,8 @@
     <MESSAGE value="19-04-18 添加博客api代码接口文档swagger" />
     <MESSAGE value="19-07-02 添加博客wx-app开发" />
     <MESSAGE value="19-07-02 添加博客ServiceWorkers" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-07-02 添加博客ServiceWorkers" />
+    <MESSAGE value="19-07-02 添加博客js中的promise" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-07-02 添加博客js中的promise" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png">
@@ -934,16 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Vue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -984,16 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/mysql.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/swagger.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1004,11 +1012,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/redis.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="10" selection-end-line="30" />
+          <first_editor relative-caret-position="315">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
@@ -1024,11 +1032,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/ServiceWorkers.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/redis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <first_editor relative-caret-position="189">
+            <caret line="9" column="10" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
