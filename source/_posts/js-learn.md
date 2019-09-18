@@ -14,4 +14,5 @@ tags:   #标签
 3、[JS - Promise使用详解1（基本概念、使用优点）](https://www.cnblogs.com/sweeeper/p/8442613.html)
 4、[ES5 完全教程](https://wangdoc.com/javascript/)
 5、[ES6 完全教程](http://es6.ruanyifeng.com/#README)
+6、[ES6 核心特性（要点）](https://www.jianshu.com/p/9c480936976f)
 
