@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5bc40ac-4513-4286-86d3-5d9da2029f64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/js-learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js-learn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <session id="-120884887">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="1" />
@@ -23,14 +23,14 @@
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.2" value="8" />
           <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="58" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,7 +40,7 @@
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="4" />
           <entry key="json" value="5" />
-          <entry key="md" value="49" />
+          <entry key="md" value="50" />
           <entry key="png" value="3" />
           <entry key="styl" value="1" />
           <entry key="svg" value="1" />
@@ -54,7 +54,7 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="9" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="49" />
+          <entry key="Markdown" value="50" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="3" />
@@ -63,17 +63,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1769" />
+          <entry key="md" value="1772" />
           <entry key="styl" value="5" />
           <entry key="swig" value="73" />
-          <entry key="txt" value="309" />
+          <entry key="txt" value="318" />
           <entry key="yml" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1769" />
-          <entry key="PLAIN_TEXT" value="387" />
+          <entry key="Markdown" value="1772" />
+          <entry key="PLAIN_TEXT" value="396" />
           <entry key="YAML" value="118" />
         </counts>
       </usages-collector>
@@ -141,12 +141,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="338">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/git.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="273">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -232,7 +244,6 @@
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/index.md" />
         <option value="$PROJECT_DIR$/source/_posts/first-blog.md" />
-        <option value="$PROJECT_DIR$/source/_posts/git.md" />
         <option value="$PROJECT_DIR$/source/_posts/thinkphp.md" />
         <option value="$PROJECT_DIR$/source/_posts/lnmp-make.md" />
         <option value="$PROJECT_DIR$/source/_posts/nginx-develop.md" />
@@ -251,6 +262,7 @@
         <option value="$PROJECT_DIR$/source/_posts/ServiceWorkers.md" />
         <option value="$PROJECT_DIR$/source/_posts/mysql.md" />
         <option value="$PROJECT_DIR$/source/_posts/js-learn.md" />
+        <option value="$PROJECT_DIR$/source/_posts/git.md" />
       </list>
     </option>
   </component>
@@ -300,6 +312,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,7 +335,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,7 +437,8 @@
       <workItem from="1562029888440" duration="5604000" />
       <workItem from="1564036257100" duration="1403000" />
       <workItem from="1568720082307" duration="558000" />
-      <workItem from="1568772354552" duration="45000" />
+      <workItem from="1568772354552" duration="242000" />
+      <workItem from="1569736547897" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="完整配置">
       <created>1546485226058</created>
@@ -644,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568720295483</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="19-09-17 添加博客es6核心教程">
+      <created>1568772488085</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1568772488085</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129166000" />
+    <option name="totallyTimeSpent" value="129682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -663,7 +683,7 @@
     <frame x="182" y="108" width="1435" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114967" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27114967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -676,7 +696,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.328125" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.36629528" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31058496" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -717,7 +737,8 @@
     <MESSAGE value="19-07-02 添加博客js中的promise" />
     <MESSAGE value="19-07-02 添加博客mysql的binlog" />
     <MESSAGE value="19-09-17 添加博客es5，es6完全教程" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-09-17 添加博客es5，es6完全教程" />
+    <MESSAGE value="19-09-17 添加博客es6核心教程" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-09-17 添加博客es6核心教程" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png">
@@ -810,16 +831,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="336">
             <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/git.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>
@@ -1085,8 +1096,18 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/js-learn.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="338">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/git.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="273">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
